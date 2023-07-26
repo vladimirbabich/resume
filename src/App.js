@@ -80,7 +80,7 @@ export default function App() {
                 variant="p"
                 component="h4"
                 fontWeight="400">
-                Резюме Front-end/Back-end dev.
+                Резюме Front-end(React)/Full-stack(React+NodeJS) dev.
               </Typography>
               <Typography textAlign="center" variant="p" component="h2">
                 Владимир Бабич
