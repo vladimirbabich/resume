@@ -79,8 +79,8 @@ export default function App() {
                 mt={4}
                 variant="p"
                 component="h4"
-                fontWeight="400">
-                Резюме Front-end(React)/Full-stack(React+NodeJS) dev.
+                fontWeight="500">
+                Резюме Front-end / Full-stack dev.
               </Typography>
               <Typography textAlign="center" variant="p" component="h2">
                 Владимир Бабич
